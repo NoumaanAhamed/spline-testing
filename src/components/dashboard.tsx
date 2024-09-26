@@ -30,7 +30,7 @@ const Footer = () => (
 
 const SplineModel = () => (
     <div className="h-[calc(100vh-8rem)] w-full">
-        <Spline scene="https://prod.spline.design/L0zuiTdW1kmQuYYq/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/53hfF4vuHode9LQS/scene.splinecode" />
     </div>
 );
 
